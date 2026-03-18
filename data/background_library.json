@@ -1,0 +1,92 @@
+{
+  "bg_cg_voice_resonance": {
+    "id": "bg_cg_voice_resonance",
+    "name": "CG：灵魂的声律",
+    "description": "一片深邃的暗红色空间，无数发光的线条像神经元一样交织，代表着亚伦正在觉醒的灵魂刻印。",
+    "location": "地下城-祭坛核心"
+  },
+  "bg_cg_merchant_contract": {
+    "id": "bg_cg_merchant_contract",
+    "name": "CG：灵魂契约",
+    "description": "[char_ageha][char_hero] 在昏暗的营地火光下，扬羽展现出一张散发着诡异紫光的羊皮纸契约。她的手指纤细却有力地按在契约边缘，嘴角带着一丝志在必得的狡黠笑容。主角亚伦的一只手正缓缓伸向契约，另一只受石化诅咒影响的手臂在暗影中显得冰冷而苍白。空气中浮动着金币和魔力交织的微粒，象征着这场博弈的开端。",
+    "location": "扬羽的营地"
+  },
+  "bg_cg_sacrifice_decision": {
+    "id": "bg_cg_sacrifice_decision",
+    "name": "CG：最后的献祭选择",
+    "description": "[char_aaron] [char_setsuna] [char_lilith] [char_ageha] 在闪烁着红色警告信息的虚空系统界面前，亚伦正伸出手试图触碰那个自我牺牲的选项。他的颈部已经布满了灰色的石斑。刹那跪在地上向他伸手，满脸泪痕。莉莉丝在一旁惊恐地大喊，而扬羽焦急地翻找着行囊。背景是不断崩塌的数据流和白色的虚无。",
+    "location": "系统空间"
+  },
+  "bg_cg_fleeing_fate": {
+    "id": "bg_cg_fleeing_fate",
+    "name": "逃离宿命",
+    "description": "[char_aaron] 亚伦穿着沉重的银色板甲在浓厚的紫色迷雾中疯狂奔跑，四周的枯木扭曲成巨大的手掌试图抓捕他，背景色调阴暗且充满压迫感。",
+    "location": "永恒暮色之森-逃亡路径"
+  },
+  "bg_cg_lilith_eye": {
+    "id": "bg_cg_lilith_eye",
+    "name": "CG：魔女之眼",
+    "description": "[char_lilith] 近景特写。莉莉丝的一只眼睛散发出幽邃的银色光芒，瞳孔中映射出无数像蜘蛛网一样的发光线条（因果线）。她的表情极度痛苦，嘴角溢出一丝鲜血，背景是由于时空干涉而产生扭曲的剧毒回廊场景。",
+    "location": "地下城-剧毒回廊（关键转折点：莉莉丝强行观测未来）"
+  },
+  "bg_cg_aaron_petrified": {
+    "id": "bg_cg_aaron_petrified",
+    "name": "CG：石化骑士",
+    "description": "画面中是亚伦彻底化为灰白色石像的特写。他的身体保持着站立的姿势，甲胄的缝隙中已经长出了些许青苔。他的脸孔半掩在头盔下，眼角甚至还有一颗被冻结的石泪。背景是浓重且不详的紫色雾气，周围是枯死的树木，整体色调灰冷、绝望。",
+    "location": "永恒暮色之森-入口"
+  },
+  "bg_cg_aaron_first_strike": {
+    "id": "bg_cg_aaron_first_strike",
+    "name": "CG：骑士的首战",
+    "description": "[char_aaron] 亚伦在浓雾中猛然拔剑的特写，剑锋划破迷雾，带起一道金色的弧光。他的眼神充满杀意，背景是扭曲的古树和若隐若现的暗影，展现出一种绝地求生的力量感。",
+    "location": "永恒暮色之森-林间小径"
+  },
+  "bg_cg_miracle_rebirth": {
+    "id": "bg_cg_miracle_rebirth",
+    "name": "CG：奇迹重生",
+    "description": "[char_aaron] 亚伦站在刺眼的白光与破碎的石化碎片中间，身体正爆发出金红色的魂力。光芒中隐约可见莉莉丝和刹那的身影，像是在用力拉扯着他。背景是扭曲的时间旋涡。",
+    "location": "时空狭缝"
+  },
+  "bg_cg_trap_triggered_fail": {
+    "id": "bg_cg_trap_triggered_fail",
+    "name": "CG：失算的突袭",
+    "description": "[char_lilith][char_aaron] 以第一人称视角展现，亚伦的视野被莉莉丝惊恐的表情占据，但画面下方是绊索被拉断的特写，周围的雾气中闪烁着毒箭的冷光。",
+    "location": "永恒暮色之森-枯树桩"
+  },
+  "bg_cg_aaron_petrified_forest": {
+    "id": "bg_cg_aaron_petrified_forest",
+    "name": "CG：森林中的石像",
+    "description": "[char_aaron][char_lilith] (引用 bg_cg_aaron_petrified) 亚伦已经有一半的身体变成了灰色的岩石，他保持着前扑跪地的姿势，莉莉丝弯腰凑近他的脸庞，背景是昏暗的森林和四散的塔罗牌。",
+    "location": "永恒暮色之森-枯树桩"
+  },
+  "bg_cg_misty_revelation": {
+    "id": "bg_cg_misty_revelation",
+    "name": "CG：迷雾中的启示",
+    "description": "[char_lilith] 在浓重的白色迷雾中，莉莉丝坐在一个布满青苔的巨大枯树桩上。她歪着头，右手玩味地捏着一张带有星辰图案的塔罗牌，眼神中透着一种跨越时空的讥讽与好奇。亚伦手持长剑站在迷雾边缘，身影略显模糊，形成了强烈的对比。",
+    "location": "永恒暮色之森-观测点"
+  },
+  "bg_desolate_border_road": {
+    "id": "bg_desolate_border_road",
+    "name": "荒凉的边境古道",
+    "description": "这是一条通往王国边境的破败土路，道路两旁杂草丛生，远处可以看到被迷雾笼罩的森林入口，而另一端则是通往人类文明的荒野。天空阴沉，充满了压抑的灰色。",
+    "location": "王国边境"
+  },
+  "bg_cg_aaron_resolve": {
+    "id": "bg_cg_aaron_resolve",
+    "name": "CG：骑士的觉醒",
+    "description": "[char_aaron] 亚伦站在迷雾森林的入口，左手紧紧握着长剑，红色的披风在灰蒙蒙的雾气中猎猎作响。他的侧脸轮廓坚毅，金色的瞳孔中透出不服输的意志，阳光（或微光）勉强穿透云层，在他的银白色板甲上投射出冷冽的光泽，四周的枯树仿佛狰狞的爪子在向他延伸。",
+    "location": "永恒暮色之森-入口"
+  },
+  "bg_cg_trap_triggered": {
+    "id": "bg_cg_trap_triggered",
+    "name": "陷阱触发CG",
+    "description": "[char_aaron] 这是一个充满张力的画面，前景是亚伦高大的银色重甲背影，他正保持着防御姿态。中景处，无数支带着幽绿色毒液的箭矢如雨点般射向地面，激起腐蚀性的烟雾。背景是阴森的永恒暮色之森，枯树的阴影扭曲如鬼魅。整个色调偏暗，唯有毒液的绿光和甲胄的冷光非常耀眼。",
+    "location": "永恒暮色之森-陷阱点"
+  },
+  "bg_cg_lilith_shocked": {
+    "id": "bg_cg_lilith_shocked",
+    "name": "莉莉丝的震惊CG",
+    "description": "[char_lilith] [char_aaron] 画面特写了星野莉莉丝的脸部。这位平时总是玩世不恭、毒舌神秘的魔女，此时瞪大了双眼，嘴唇微张，露出极度不可置信的表情。她的一只手按在巨大的魔女帽檐上，背景是亚伦屹立不倒的身影，以及满地折断的毒箭。光影重点打在莉莉丝紫色的眼瞳中，那里倒映着亚伦这个‘变数’的影子。",
+    "location": "永恒暮色之森-观测点"
+  }
+}
