@@ -549,5 +549,23 @@
     "name": "共鸣的祭坛",
     "description": "[bg_altar_crystal] 的变体。祭坛四周原本熄灭的符文此时正发出幽暗的紫色光芒，与地牢深处传来的红光交织在一起。空气中漂浮着细小的水晶碎屑，仿佛时间在这里变得粘稠而沉重。",
     "location": "地牢一层-祭坛核心"
+  },
+  "bg_altar_afterglow_quiet": {
+    "id": "bg_altar_afterglow_quiet",
+    "name": "祭坛的余晖",
+    "description": "[bg_altar_resonance] 的变体。此时祭坛的强光已经散去，只剩下微弱的、有节奏跳动的紫色微光。周围的石柱投下长长的阴影，空气中漂浮着沉降后的尘埃，透出一种战后的静谧感。",
+    "location": "地下城-祭坛"
+  },
+  "bg_dungeon_descent_stairs": {
+    "id": "bg_dungeon_descent_stairs",
+    "name": "幽暗的回旋阶梯",
+    "description": "一段通往地牢更深处的古老阶梯，台阶由潮湿的青石构成，缝隙中长满了散发微光的紫色地衣。镜头采用俯视视角，强调了深不见底的压迫感，墙壁上不断有水珠滑落。",
+    "location": "地下城-连接通道"
+  },
+  "bg_toxic_miasma_entrance": {
+    "id": "bg_toxic_miasma_entrance",
+    "name": "剧毒回廊的入口",
+    "description": "[bg_dungeon_poison] 的初始视角。巨大的拱形门洞后，浓郁得近乎实体的紫色毒雾正缓缓流动，雾气中偶尔闪烁着诡异的绿色磷火。石门上刻满了警告性质的符文，空气因剧毒而显得扭曲。",
+    "location": "地下城-中层"
   }
 }
