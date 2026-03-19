@@ -1,403 +1,399 @@
 {
-    "bg_cg_setsuna_sleeping_underwater": {
-      "id": "bg_cg_setsuna_sleeping_underwater",
-      "name": "CG：沉睡的兵器",
-      "description": "海底遗迹的深处，幽蓝的光线透过荡漾的水波折射下来，照亮了中央巨大的魔力水晶。银发狐耳的少女[char_setsuna]正蜷缩在水晶内部，如同婴儿般沉睡。随着水流和魔力的律动，她的发丝和衣摆在晶体中轻微地摇摆，周围环绕着上升的气泡，氛围静谧、神圣而略带忧伤。",
-      "url": "./assets/background_bg_cg_setsuna_sleeping_underwater.jpg",
-      "location": "地下城-祭坛（第0章：被封印的刹那）"
-    },
-    "bg_misty_forest_entrance": {
-      "id": "bg_misty_forest_entrance",
-      "name": "森林入口",
-      "description": "浓雾笼罩着黑暗古老的森林入口。扭曲的树木在背景中若隐若现，冷冽的蓝灰色调强调了孤立与危险感。",
-      "url": "./assets/background_bg_misty_forest_entrance.jpg",
-      "location": "永恒暮色之森（序章/第一章：亚伦踏入死地，绝望轮回的起点）"
-    },
-    "bg_forest_stump": {
-      "id": "bg_forest_stump",
-      "name": "枯树桩",
-      "description": "迷雾森林中的一小块空地，中央是一个巨大的古老树桩。地面覆盖着青苔，微弱的光束穿透了树冠投射下来。",
-      "url": "./assets/background_bg_forest_stump.jpg",
-      "location": "永恒暮色之森（第一章：莉莉丝的观测点，命运被改写的发生地）"
-    },
-    "bg_misty_path": {
-      "id": "bg_misty_path",
-      "name": "林间小径",
-      "description": "一条狭窄、杂草丛生的小径蜿蜒伸向黑暗森林深处。这里的雾气稍淡，远处可见带刺的藤蔓和古老的废墟。",
-      "url": "./assets/background_bg_misty_path.jpg",
-      "location": "永恒暮色之森（第一章：通往地牢的必经之路，充满未知的试炼）"
-    },
-    "bg_cg_trap_triggered": {
-      "id": "bg_cg_trap_triggered",
-      "name": "陷阱触发",
-      "description": "动态动作镜头。数百支发着绿光的毒箭在空中交错，击碎了地面的岩石。撞击点发出嘶嘶作响的毒雾。高对比度，充满危险的氛围。",
-      "url": "./assets/background_bg_cg_trap_triggered.jpg",
-      "location": "CG场景-森林（第一章：亚伦预判并诱发毒箭机关，展现其实力）"
-    },
-    "bg_cg_lilith_shocked": {
-      "id": "bg_cg_lilith_shocked",
-      "name": "CG：莉莉丝的震惊",
-      "description": "[char_lilith] 坐在树桩上的莉莉丝特写。她手中的塔罗牌正以慢动作滑落。她双眼圆睁，微张着嘴，表情流露出真实的震惊和难以置信。电影级布光聚焦在她的脸部，背景的迷雾森林被虚化。",
-      "url": "./assets/background_bg_cg_lilith_shocked.jpg",
-      "location": "CG场景-森林（第一章：莉莉丝目睹既定命运被打破，由于“变数”产生动摇）"
-    },
-    "bg_dungeon_entrance": {
-      "id": "bg_dungeon_entrance",
-      "name": "地牢一层入口",
-      "description": "阴冷潮湿的地下遗迹入口，墙壁由巨大的青色石块砌成，布满了青苔和岁月的痕迹。微弱的磷火在远处闪烁，空气中弥漫着陈旧的尘土味。",
-      "url": "./assets/background_bg_dungeon_entrance.jpg",
-      "location": "地下城-上层（第一章：正式进入迷宫，冒险的开端）"
-    },
-    "bg_altar_crystal": {
-      "id": "bg_altar_crystal",
-      "name": "古代祭坛",
-      "description": "远景，一个宽阔的地下圆形大厅，中央矗立着一座刻满符文的石制祭坛。祭坛上方原本悬浮着巨大的蓝色水晶，四周散落着古代文明的残垣断壁。但现在水晶已经破碎，里面的少女也不知所踪。",
-      "url": "./assets/background_bg_altar_crystal.jpg",
-      "location": "地下城-祭坛（第二章：封印之地 / 第八章：决战后的废墟）"
-    },
-    "bg_cg_altar_crystal": {
-      "id": "bg_cg_altar_crystal",
-      "name": "CG：封印在古代祭坛的少女",
-      "description": "一个宽阔的地下圆形大厅，中央矗立着一座刻满符文的石制祭坛。祭坛上方原本悬浮着巨大的蓝色水晶，四周散落着古代文明的残垣断壁。水晶里面封印着角色[char_setsuna]，角色沉睡着蜷曲着身子，在水晶中若隐若现",
-      "url": "./assets/background_bg_cg_altar_crystal.jpg",
-      "location": "CG场景-祭坛（第二章：初遇刹那，全景视角展示场景的神圣感）"
-    },
-    "bg_cg_setsuna_victory": {
-      "id": "bg_cg_setsuna_victory",
-      "name": "CG：刹那的胜利手势",
-      "description": "[char_setsuna] 电影级特写镜头，银发狐耳少女刹那站在被摧毁的石像鬼废墟中。她身穿充满未来感的战斗服，与古老的遗迹形成鲜明对比。她面无表情，却伸出右手比了一个“V”字胜利手势。尘埃粒子在地牢顶部的戏剧性光照下飞舞，突显了她红色的眼睛和装备发出的微光。",
-      "url": "./assets/background_bg_cg_setsuna_victory.jpg",
-      "location": "CG场景-地牢深层（第八章：刹那觉醒“元气”属性，学会表达胜利的喜悦）"
-    },
-    "bg_dungeon_poison": {
-      "id": "bg_dungeon_poison",
-      "name": "剧毒回廊",
-      "description": "古老的地牢走廊，弥漫着厚重致命的紫色雾气，墙壁上的火把发出惨绿色的光，气氛压抑而危险。",
-      "url": "./assets/background_bg_dungeon_poison.jpg",
-      "location": "地下城-中层（第三章：遭遇环境危机，暗示扬羽领地的接近）"
-    },
-    "bg_ageha_camp": {
-      "id": "bg_ageha_camp",
-      "name": "扬羽的杂货铺",
-      "description": "地牢通风管道后的隐蔽空间，堆满了木箱、炼金材料和奇怪的机械装置，中间摆着一张精致的茶桌，充满了不协调的生活气息。",
-      "url": "./assets/background_bg_ageha_camp.jpg",
-      "location": "地下城-扬羽营地（第三章：奸商的据点，也是队伍唯一的补给站）"
-    },
-    "bg_cg_ageha_calculator": {
-      "id": "bg_cg_ageha_calculator",
-      "name": "CG：天价账单",
-      "description": "黑木扬羽手持贴满水钻的计算器，镜片反光，展示出天文数字账单的特写画面，表情狡黠而贪财。",
-      "url": "./assets/background_bg_cg_ageha_calculator.jpg",
-      "location": "CG场景-扬羽营地（第三章：展现扬羽的贪财本性与搞笑的压迫感）"
-    },
-    "bg_cg_alchemy_rescue": {
-      "id": "bg_cg_alchemy_rescue",
-      "name": "CG：炼金救援",
-      "description": "战斗场景，扬羽投掷炼金药剂制造冰环保护正在战斗中的刹那[狐人]（注意表现出两个人的紧张状态），画面充满动态感和魔法粒子效果。",
-      "url": "./assets/background_bg_cg_alchemy_rescue.jpg",
-      "location": "CG场景-地牢深层（第四章：扬羽展现战斗价值，三人配合初见雏形）"
-    },
-    "bg_cg_team_form": {
-      "id": "bg_cg_team_form",
-      "name": "CG：四人小队",
-      "description": "亚伦、莉莉丝、刹那和扬羽四人站在一起的画面，展现出虽然吵闹但互补的团队氛围。",
-      "url": "./assets/background_bg_cg_team_form.jpg",
-      "location": "CG场景-地牢深层（第四章：队伍完全集结，正式开启攻略）"
-    },
-    "bg_dungeon_deep": {
-      "id": "bg_dungeon_deep",
-      "name": "地牢中层深处",
-      "description": "潮湿阴暗的地下通道，墙壁上生长着发光的紫色苔藓，空气中弥漫着压抑的雾气。",
-      "url": "./assets/background_bg_dungeon_deep.jpg",
-      "location": "地下城-中层（第四章：探索过程，连接扬羽营地与深层区域）"
-    },
-    "bg_dungeon_battle": {
-      "id": "bg_dungeon_battle",
-      "name": "地牢战斗",
-      "description": "动态模糊的地牢背景，显示出激烈的战斗氛围，光影交错。",
-      "url": "./assets/background_bg_dungeon_battle.jpg",
-      "location": "地下城-通用（全章节：通用的遇敌战斗背景）"
-    },
-    "bg_camp_fire": {
-      "id": "bg_camp_fire",
-      "name": "地牢篝火",
-      "description": "黑暗洞穴中的一处避风港，中央燃烧着温暖的篝火，光影投射在周围的石壁上。",
-      "url": "./assets/background_bg_camp_fire.jpg",
-      "location": "地下城-营地（章节间隙：用于休整、对话和推进角色好感度）"
-    },
-    "cg_setsuna_shield": {
-      "id": "cg_setsuna_shield",
-      "name": "CG：刹那的格挡",
-      "description": "[char_setsuna] 在黑暗地牢中挡在男主角前面，为他挡下一记毒刃，剧毒的短剑深深没入她的左肩。金属相撞溅起火花。动态动作视角，她脸上表情紧张，电影级灯光突显了危险感。",
-      "url": "./assets/background_cg_setsuna_shield.jpg",
-      "location": "CG场景-地牢深层（第四章：刹那舍身救主，体现其作为护卫的忠诚与本能）"
-    },
-    "cg_setsuna_healing": {
-      "id": "cg_setsuna_healing",
-      "name": "CG：伤口处理",
-      "description": "[char_setsuna] 温馨的近景特写。在地牢篝火旁，亚伦（第一人称）正半跪在刹那身前，神情专注而温柔地为她左肩上的伤口缠绕白色的绷带。刹那乖巧地坐着，衣袖半褪，侧着头，金色的眼睛一眨不眨地盯着亚伦的动作，表情中带着一丝困惑和从未有过的异样触动。柔和的暖光将两人的影子拉长，氛围静谧而暧昧。",
-      "url": "./assets/background_cg_setsuna_healing.jpg",
-      "location": "CG场景-营地（第三章：亚伦亲自为刹那治疗，刹那初次体验到“被爱护”而非“维修”的区别）"
-    },
-    "cg_setsuna_warmth": {
-      "id": "cg_setsuna_warmth",
-      "name": "CG：心的温度",
-      "description": "[char_setsuna] 篝火旁的特写。她正带着惊奇和柔和的顿悟神情，触摸着胸前发着红光的宝石。温暖的火光照亮了她的脸庞，与黑暗的背景形成对比。充满情感和氛围感。",
-      "url": "./assets/background_cg_setsuna_warmth.jpg",
-      "location": "CG场景-营地（第六章：刹那开始理解情感，核心/心脏产生反应）"
-    },
-    "bg_dungeon_depths": {
-      "id": "bg_dungeon_depths",
-      "name": "地牢深层回廊",
-      "description": "幽暗压抑的古代石质回廊，墙壁上生长着发光的苔藓，空气中弥漫着古老和危险的气息。",
-      "url": "./assets/background_bg_dungeon_depths.jpg",
-      "location": "地下城-深层（第六章：接近核心区域，危险度提升）"
-    },
-    "bg_dungeon_terrace": {
-      "id": "bg_dungeon_terrace",
-      "name": "地牢露台",
-      "description": "位于地牢遗迹边缘的开阔露台，可以看到上方由魔法构建的虚假却美丽的浩瀚星空。",
-      "url": "./assets/background_bg_dungeon_terrace.jpg",
-      "location": "地下城-露台（第五章：莉莉丝专属剧情点，虚假星空下的谈心）"
-    },
-    "bg_cg_lilith_crying": {
-      "id": "bg_cg_lilith_crying",
-      "name": "CG：哭泣的莉莉丝",
-      "description": "[char_lilith] 特写镜头。星空下的夜晚。莉莉丝正坐在石栏杆上，抱着膝盖。泪水顺着她的脸颊流下，表情充满了绝望和孤独。电影级布光，充满情感氛围。",
-      "url": "./assets/background_bg_cg_lilith_crying.jpg",
-      "location": "CG场景-露台（第五章：莉莉丝崩溃，展现百年轮回的沉重代价）"
-    },
-    "bg_cg_handshake_promise": {
-      "id": "bg_cg_handshake_promise",
-      "name": "CG：星空下的誓言",
-      "description": "[char_lilith][char_aaron] 中景镜头。星光下。亚伦（身穿骑士铠甲）温暖地握住莉莉丝的手。亚伦带着自信而温柔的微笑。莉莉丝抬头看着他，脸红了，睁大的眼睛表现出震惊和感动。浪漫而充满希望的氛围。",
-      "url": "./assets/background_bg_cg_handshake_promise.jpg",
-      "location": "CG场景-露台（第五章：亚伦给予莉莉丝希望，两人羁绊确立）"
-    },
-    "bg_abyss_altar": {
-      "id": "bg_abyss_altar",
-      "name": "深渊祭坛",
-      "description": "一座古老黑暗的石制祭坛悬浮在虚空中，四周环绕着漂浮的碎片和紫色雾气。气氛压抑而冰冷。",
-      "url": "./assets/background_bg_abyss_altar.jpg",
-      "location": "虚空领域（第七章：最终BOSS战场景，现实与虚空的交界）"
-    },
-    "bg_void_lord_battle": {
-      "id": "bg_void_lord_battle",
-      "name": "虚空领主战",
-      "description": "同样的祭坛场景，但被一个巨大的、变幻莫测的暗影实体所占据，它有着多只发光的眼睛，扭曲着周围的空间。",
-      "url": "./assets/background_bg_void_lord_battle.jpg",
-      "location": "虚空领域（第七章：直面时之核心/虚空领主）"
-    },
-    "cg_ageha_sacrifice": {
-      "id": "cg_ageha_sacrifice",
-      "name": "CG：扬羽的牺牲",
-      "description": "[char_ageha] 扬羽的特写，泪水流过她的脸颊，她正用尽全力投掷出一个发着彩虹光芒的药剂瓶。魔法粒子在瓶身后拖曳出轨迹，电影级灯光突显了她痛苦的表情。",
-      "url": "./assets/background_cg_ageha_sacrifice.jpg",
-      "location": "CG场景-虚空领域（第七章：扬羽孤注一掷，展现其为了伙伴放弃财富的决意）"
-    },
-    "cg_setsuna_berserk": {
-      "id": "cg_setsuna_berserk",
-      "name": "CG：刹那暴走",
-      "description": "[char_setsuna] 刹那悬浮在半空中对着天空尖叫，周身环绕着狂暴的紫黑色虚空能量闪电。她的眼睛发出不详的红光，周围漂浮着碎石，氛围黑暗且混乱。",
-      "url": "./assets/background_cg_setsuna_berserk.jpg",
-      "location": "CG场景-虚空领域（第七章：刹那力量失控，对抗虚空的极限状态）"
-    },
-    "cg_redemption": {
-      "id": "cg_redemption",
-      "name": "CG：心的救赎",
-      "description": "[char_setsuna] 主角在能量风暴中紧紧拥抱住刹那。刹那的表情从愤怒转变为困惑和悲伤。柔和温暖的光芒从他们的接触点散发出来，冲破了黑暗的氛围。",
-      "url": "./assets/background_cg_redemption.jpg",
-      "location": "CG场景-虚空领域（第八章：亚伦唤醒刹那，用爱平息暴走）"
-    },
-    "bg_void_altar_ruins": {
-      "id": "bg_void_altar_ruins",
-      "name": "崩塌的祭坛",
-      "description": "黑暗、崩塌中的石制祭坛悬浮在虚空中，紫色闪电噼啪作响，碎片向上漂浮。",
-      "url": "./assets/background_bg_void_altar_ruins.jpg",
-      "location": "虚空领域（第八章：核心被击破后，世界崩塌的最后时刻）"
-    },
-    "bg_cg_core_collapse": {
-      "id": "bg_cg_core_collapse",
-      "name": "CG：核心崩坏",
-      "description": "[char_lilith][char_setsuna] 特写：巨大的蓝色水晶之心正在碎裂，美丽的蓝色正在迅速褪去，取而代之的是死亡般的灰白。黑暗能量从中泄漏。莉莉丝和刹那惊恐地看着它，戏剧性的低角度仰拍。",
-      "url": "./assets/background_bg_cg_core_collapse.jpg",
-      "location": "CG场景-虚空领域（第八章：诅咒源头被摧毁，也是轮回结束的象征）"
-    },
-    "bg_system_interface": {
-      "id": "bg_system_interface",
-      "name": "系统界面【虚空地牢内二选一】",
-      "description": "虚空地牢内，抽象的红黑配色数字空间，漂浮着全息文本框和警告标志。两个巨大的全息选项框，显示着选项【方案A：外来者同化】 【方案B：兵器还原】",
-      "url": "./assets/background_bg_system_interface.jpg",
-      "location": "系统空间（剧情分支：表现世界底层的运行逻辑，打破第四面墙）"
-    },
-    "bg_cg_lilith_eye": {
-      "id": "bg_cg_lilith_eye",
-      "name": "CG：魔女之眼",
-      "description": "[char_lilith] 莉莉丝手指伸向右眼的特写。右眼变成了刻满了金色符文、仿佛包含着无数星辰轨迹的时空之瞳，瞳孔中旋转着层层叠叠的魔法阵。血泪顺着脸颊流下，表情显露出绝望的决意。",
-      "url": "./assets/background_bg_cg_lilith_eye.jpg",
-      "location": "CG场景-露台（第七章：莉莉丝动用禁忌力量干涉因果，高光时刻）"
-    },
-    "bg_cg_ageha_sacrifice": {
-      "id": "bg_cg_ageha_sacrifice",
-      "name": "CG：扬羽的献祭",
-      "description": "[char_ageha] 扬羽的全景镜头，她将几袋发着各色光芒的水晶抛向空中，脸上流着泪却带着微笑，宝石周围正在形成魔法阵。",
-      "url": "./assets/background_bg_cg_ageha_sacrifice.jpg",
-      "location": "CG场景-虚空领域（第七章：全景展示扬羽散尽家财发动的终极魔法）"
-    },
-    "bg_magic_circle_active": {
-      "id": "bg_magic_circle_active",
-      "name": "增幅法阵",
-      "description": "地面视角，展现一个复杂的发光魔法阵，水晶悬浮其中并消散为光能。",
-      "url": "./assets/background_bg_magic_circle_active.jpg",
-      "location": "虚空领域（第七章：扬羽魔法生效的特效场景）"
-    },
-    "bg_cg_final_slash": {
-      "id": "bg_cg_final_slash",
-      "name": "终焉一击CG",
-      "description": "[char_setsuna] 刹那【狐人】在空中斩断发光的形而上锁链的动态动作镜头。在她身后，有勇者、莉莉丝和扬羽的幽灵般重影在支持着她。光粒子的爆发效果。",
-      "url": "./assets/background_bg_cg_final_slash.jpg",
-      "location": "CG场景-虚空领域（第七章：四人羁绊合一，斩断宿命锁链的决胜瞬间）"
-    },
-    "bg_white_light": {
-      "id": "bg_white_light",
-      "name": "极致白光",
-      "description": "纯白的屏幕，带有微弱的玻璃碎裂轮廓。",
-      "url": "./assets/background_bg_white_light.jpg",
-      "location": "抽象空间（转场：用于表现记忆恢复、时间重置或苏醒的瞬间）"
-    },
-    "bg_forest_dawn_ruins": {
-      "id": "bg_forest_dawn_ruins",
-      "name": "黎明的废墟",
-      "description": "长满青苔的古老废墟，被穿透乌云的灿烂日出照亮。充满希望的氛围。",
-      "url": "./assets/background_bg_forest_dawn_ruins.jpg",
-      "location": "永恒暮色之森（第八章：诅咒解除后，重见天日的森林废墟）"
-    },
-    "bg_forest_dawn": {
-      "id": "bg_forest_dawn",
-      "name": "森林黎明",
-      "description": "黎明时分的暮色森林边缘。浓雾已经消散，露出了郁郁葱葱的绿树和湛蓝的天空。金色的晨光透过树叶洒落，照亮了地牢出口废墟所在的草地。",
-      "url": "./assets/background_bg_forest_dawn.jpg",
-      "location": "永恒暮色之森（第八章：通关后的世界，象征新生与自由）"
-    },
-    "bg_cg_setsuna_smile": {
-      "id": "bg_cg_setsuna_smile",
-      "name": "CG：刹那的笑容",
-      "description": "[char_setsuna] 九条刹那站在升起的太阳前的特写镜头。她的银发在金色的轮廓光下闪闪发光。这位通常面无表情的少女露出了真诚、灿烂的笑容，手指在眼边比了一个“V”字（剪刀手）。她的眼睛充满生机和温暖。高品质的日系动画艺术风格，充满情感和电影级布光。",
-      "url": "./assets/background_bg_cg_setsuna_smile.jpg",
-      "location": "CG场景-森林黎明（第八章：刹那情感觉醒，从兵器变为少女的最美瞬间）"
-    },
-    "bg_cg_hand_holding": {
-      "id": "bg_cg_hand_holding",
-      "name": "CG：十指紧扣",
-      "description": "[char_setsuna][char_hero] 一个特写镜头，两只手在晨空和森林的背景下十指紧扣（牵手）。一只手是主角的，略显粗糙；另一只是刹那的，纤细白皙。阳光在他们紧握的双手之间产生了镜头光晕效果，象征着他们的羁绊和新开始的温暖。",
-      "url": "./assets/background_bg_cg_hand_holding.jpg",
-      "location": "CG场景-森林黎明（第八章：Happy End 标志，两人情感的最终确认）"
-    },
-    "bg_cg_lilith_hypnosis": {
-      "id": "bg_cg_lilith_hypnosis",
-      "name": "CG：魔女的催眠",
-      "description": "[char_lilith] 莉莉丝的半身特写。她的一只手向前伸出，仿佛在抚摸屏幕（主角的脸）。指尖散发着梦幻的粉紫色光粉，光粉正在侵蚀周围黑暗的地牢背景。她的眼神悲伤而温柔，嘴角带着凄美的微笑，仿佛在哄孩子入睡。电影级光影，焦点在她的眼睛和指尖的光芒上。",
-      "url": "./assets/background_bg_cg_lilith_hypnosis.jpg",
-      "location": "CG场景-地下城（莉莉丝线：莉莉丝为了保护亚伦，强制发动催眠魔法）"
-    },
-    "bg_dream_bedroom": {
-      "id": "bg_dream_bedroom",
-      "name": "梦境卧室",
-      "description": "一间充满阳光的舒适卧室。木质地板，飘动的白色窗纱，窗外是明媚的蓝天和绿树。桌上摆着冒着热气的早餐和鲜花。色调明亮温暖，带有轻微的柔光滤镜效果，与阴暗的地牢形成强烈反差。",
-      "url": "./assets/background_bg_dream_bedroom.jpg",
-      "location": "梦境空间（莉莉丝线：虚构的幸福日常，用于安抚亚伦的灵魂）"
-    },
-    "bg_dream_town": {
-      "id": "bg_dream_town",
-      "name": "CG：梦境小镇",
-      "description": "一个典型的幻想风格和平小镇街道。鹅卵石路面，路边是卖水果和鲜花的摊位。远处可以看到风车和蓝天。画面色彩饱和度较高，洋溢着虚假的幸福感。摊位上角色穿着一身休闲的便服，捧着一篮新鲜出炉的面包。",
-      "url": "./assets/background_bg_dream_town.jpg",
-      "location": "梦境空间（莉莉丝线：理想中的和平世界，没有诅咒与轮回）"
-    },
-    "bg_dream_hill": {
-      "id": "bg_dream_hill",
-      "name": "梦境山丘",
-      "description": "绿草如茵的小山丘，视野开阔。一棵巨大的橡树矗立在中央。背景是壮丽的日落，天空被染成橙色和紫色。远处的城镇灯火开始闪烁。唯美但带有一种静态的寂寥感。草地上坐着她，她没有戴那顶夸张的魔女帽，也没有穿那件布满神秘符文的长袍。她穿着一袭简单的白色连衣裙，赤着脚踩在草地上，紫色的长发随风轻轻飘动。",
-      "url": "./assets/background_bg_dream_hill.jpg",
-      "location": "梦境空间（莉莉丝线：梦境的终点，莉莉丝告别亚伦的地方）"
-    },
-    "bg_cg_lilith_dream_kiss": {
-      "id": "bg_cg_lilith_dream_kiss",
-      "name": "CG：最后的吻别",
-      "description": "[char_lilith] 在一片纯白的背景中，莉莉丝身穿白色的连衣裙，闭着眼睛，轻轻吻在（男主角）的额头上。她的眼角挂着晶莹的泪珠，身体边缘开始有些虚化，仿佛正在随风消散。光线神圣而柔和，充满离别的哀伤与爱意。",
-      "url": "./assets/background_bg_cg_lilith_dream_kiss.jpg",
-      "location": "CG场景-梦境空间（莉莉丝线：结局高潮，莉莉丝牺牲自己换取亚伦的苏醒）"
-    },
-    "bg_cg_aaron_petrified": {
-      "id": "bg_cg_aaron_petrified",
-      "name": "CG：石化骑士",
-      "description": "[char_aaron] 亚伦的广角全景镜头。他已经完全石化，保持着骑士的站姿僵立在森林入口浓重的灰雾之中。他原本的银色铠甲变成了无光的岩石，绿色的青苔已经开始蔓延上他的双腿。身后是无尽延伸的迷雾森林，黑暗而充满不祥气息。冷冽昏暗的光线，突显着他那悲剧而死寂的宿命。",
-      "url": "./assets/background_bg_cg_aaron_petrified.jpg",
-      "location": "CG场景-森林入口（BadEnd：亚伦逃避命运或失败后的悲剧结局）"
-    },
-    "bg_cg_bad_end_satuna_broken": {
-      "id": "bg_cg_bad_end_satuna_broken",
-      "name": "CG：凋零的白花",
-      "description": "（在第八章刹那感受到“心跳”时，亚伦极其冷酷地“否定她的人格”，导致刹那自我认知崩塌，灵力逆流）令人心碎的特写画面。暴雨中的废墟，九条刹那毫无生气地倒在泥泞的水洼中。她原本蓬松巨大的银色狐尾变得灰暗、枯萎，尾尖开始呈现出半透明的灵子化消散状态。胸口护佑她的红色勾玉（灵石）已经碎裂黯淡，微弱的蓝色灵力像萤火虫一样从伤口溢出，消散在冰冷的雨水中。金色的瞳孔失去了高光，嘴角残留着鲜血，像是一朵在暴风雨中惨遭摧残、彻底凋零的白色山茶花。",
-      "url": "./assets/background_bg_cg_bad_end_broken.jpg",
-      "location": "CG场景-废墟（BadEnd：刹那死亡）"
-    },
-    "bg_cg_bad_end_debt": {
-      "id": "bg_cg_bad_end_debt",
-      "name": "CG：地精矿坑的奴隶",
-      "description": "（在扬羽拿出天价账单时，亚伦选择“赖账/逃跑”，被愤怒的奸商制裁。）带有黑色幽默的仰视视角（亚伦的主观视角）。亚伦被粗糙的绳索五花大绑困在木笼子里。扬羽正站在笼子外俯视着他，手中拿着一张长得拖到地上的账单，脸上挂着恐怖的“核善”笑容，背景是堆积如山的金币和昏暗的地精地下黑市。",
-      "url": "./assets/background_bg_cg_bad_end_debt.jpg",
-      "location": "CG场景-地下黑市（BadEnd：亚伦因赖账被扬羽卖作奴隶的搞笑悲剧）"
-    },
-    "bg_cg_bad_end_loop": {
-      "id": "bg_cg_bad_end_loop",
-      "name": "CG：第4802次重置",
-      "description": "（在第五章露台，莉莉丝哭诉命运无法改变时，亚伦丧失了信心直接放弃）极具压迫感的心理恐怖画面。莉莉丝的面部特写，她带着绝望而疯狂的笑容，流着泪单手捏碎了一只精致的怀表。玻璃碎片飞溅，她身后的世界（森林与天空）正在像故障的电脑屏幕一样，崩解成无数错乱的数字方块和像素碎片，象征着时间的强制重置。",
-      "url": "./assets/background_bg_cg_bad_end_loop.jpg",
-      "location": "CG场景-露台（BadEnd：亚伦放弃希望，莉莉丝绝望中重置时间）"
-    },
-    "bg_cg_ageha_toast": {
-      "id": "bg_cg_ageha_toast",
-      "name": "CG：珍贵的干杯",
-      "description": " 充满活力的庆功画面。扬羽凑近镜头，单眼眨眼（Wink），脸上带着灿烂而爽朗的笑容。她手中举着两杯冒着气泡的金色饮料（昂贵的精灵蜜酒），背景是模糊的队友们。虽然她另一只手还紧紧攥着钱袋，但这一刻，她是真心想要分享喜悦。【概念】 扬羽视财如命，但她如果愿意“免费”请你喝一杯最贵的药水/酒，那就是她表达友情的最高形式。",
-      "url": "./assets/background_bg_cg_ageha_toast.jpg",
-      "location": "CG场景-营地（支线：扬羽的好感度剧情，展现其珍贵的友情一面）"
-    },
-    "bg_cg_setsuna_grooming": {
-      "id": "bg_cg_setsuna_grooming",
-      "name": "CG：尾巴护理",
-      "description": "治愈感满满的午后场景。阳光透过树叶洒下斑驳光影。刹那背对着镜头坐在草地上，抱着膝盖，舒服地眯着眼睛，耳朵惬意地耷拉下来。亚伦正拿着梳子，细心地梳理她那蓬松巨大、闪闪发亮的银色狐尾。空气中漂浮着细小的绒毛和光尘，氛围慵懒而亲密。",
-      "url": "./assets/background_bg_cg_setsuna_grooming.jpg",
-      "location": "CG场景-森林/营地（支线：刹那的好感度剧情，温馨的日常互动）"
-    },
-    "bg_cg_lilith_sleep": {
-      "id": "bg_cg_lilith_sleep",
-      "name": "CG：魔女的打盹",
-      "description": "温馨的双人近景。夜晚的篝火旁，光线温暖而摇曳。总是毒舌傲娇的莉莉丝，此刻卸下了所有的防备，靠在亚伦的肩膀上熟睡。她巨大的魔女帽歪在一边，遮住了半张脸，露出的嘴角带着一丝安心的恬静。亚伦侧头温柔地看着她，不敢乱动，生怕惊醒这位疲惫的观测者。",
-      "url": "./assets/background_bg_cg_lilith_sleep.jpg",
-      "location": "CG场景-营地（支线：莉莉丝的好感度剧情，展现其疲惫与脆弱的一面）"
-    },
-    "bg_cg_crystal_glow": {
-      "id": "bg_cg_crystal_glow",
-      "name": "CG：水晶红光",
-      "description": "[bg_cg_altar_crystal] 画面特写于祭坛中央巨大的魔力水晶。原本幽蓝的水晶内部核心此时正闪烁着危险的绯红色光芒，如同某种机械心脏在跳动。光芒映照出内部沉睡少女的轮廓，并在周围黑暗的环境中投射出诡异的几何阴影。氛围充满科技与魔法交织的神秘感。",
-      "url": "./assets/background_bg_cg_crystal_glow.jpg",
-      "location": "CG场景-祭坛（第二章：刹那苏醒前的异变，剧情紧张感的转折点）"
-    },
-    "bg_cg_crystal_crack": {
-      "id": "bg_cg_crystal_crack",
-      "name": "CG：崩裂的前兆",
-      "description": "[bg_cg_altar_crystal] 祭坛水晶表面布满了发光的红色裂纹，强烈的魔力光流从裂缝中喷涌而出，照亮了整个地下空间。画面视角采用仰视，强调水晶即将炸裂的张力与压迫感。空气中漂浮着被魔力震起的碎石与尘埃。",
-      "url": "./assets/background_bg_cg_crystal_crack.jpg",
-      "location": "CG场景-祭坛（第二章：封印破碎的瞬间，刹那登场的前奏）"
-    },
-    "bg_cg_ageha_threat": {
-      "id": "bg_cg_ageha_threat",
-      "name": "CG：致命威胁",
-      "description": "[bg_ageha_camp][char_ageha] 画面采用仰视特写镜头，背景是昏暗的地牢营地。扬羽表情阴暗而危险，脸上带着令人毛骨悚然的微笑。她的一只手举在脸侧，修长的手指夹着一管散发着剧烈紫光的不稳定药剂，仿佛随时准备松手。周围环绕着数只发光的紫冥蝶，给她的脸庞投下诡异的阴影，展现出一种致命的压迫感。",
-      "url": "./assets/background_bg_cg_ageha_threat.jpg",
-      "location": "CG场景-扬羽营地（第三章：扬羽展示武力与威胁，确立其危险的合作者身份）"
-    },
+  "bg_cg_setsuna_sleeping_underwater": {
+    "id": "bg_cg_setsuna_sleeping_underwater",
+    "name": "CG：沉睡的兵器",
+    "description": "海底遗迹的深处，幽蓝的光线透过荡漾的水波折射下来，照亮了中央巨大的魔力水晶。银发狐耳的少女[char_setsuna]正蜷缩在水晶内部，如同婴儿般沉睡。随着水流和魔力的律动，她的发丝和衣摆在晶体中轻微地摇摆，周围环绕着上升的气泡，氛围静谧、神圣而略带忧伤。",
+    "url": "./assets/background_bg_cg_setsuna_sleeping_underwater.jpg",
+    "location": "地下城-祭坛（第0章：被封印的刹那）"
+  },
+  "bg_misty_forest_entrance": {
+    "id": "bg_misty_forest_entrance",
+    "name": "森林入口",
+    "description": "浓雾笼罩着黑暗古老的森林入口。扭曲的树木在背景中若隐若现，冷冽的蓝灰色调强调了孤立与危险感。",
+    "url": "./assets/background_bg_misty_forest_entrance.jpg",
+    "location": "永恒暮色之森（序章/第一章：亚伦踏入死地，绝望轮回的起点）"
+  },
+  "bg_forest_stump": {
+    "id": "bg_forest_stump",
+    "name": "枯树桩",
+    "description": "迷雾森林中的一小块空地，中央是一个巨大的古老树桩。地面覆盖着青苔，微弱的光束穿透了树冠投射下来。",
+    "url": "./assets/background_bg_forest_stump.jpg",
+    "location": "永恒暮色之森（第一章：莉莉丝的观测点，命运被改写的发生地）"
+  },
+  "bg_misty_path": {
+    "id": "bg_misty_path",
+    "name": "林间小径",
+    "description": "一条狭窄、杂草丛生的小径蜿蜒伸向黑暗森林深处。这里的雾气稍淡，远处可见带刺的藤蔓和古老的废墟。",
+    "url": "./assets/background_bg_misty_path.jpg",
+    "location": "永恒暮色之森（第一章：通往地牢的必经之路，充满未知的试炼）"
+  },
+  "bg_cg_trap_triggered": {
+    "id": "bg_cg_trap_triggered",
+    "name": "陷阱触发CG",
+    "description": "[char_aaron] 这是一个充满张力的画面，前景是亚伦高大的银色重甲背影，他正保持着防御姿态。中景处，无数支带着幽绿色毒液的箭矢如雨点般射向地面，激起腐蚀性的烟雾。背景是阴森的永恒暮色之森，枯树的阴影扭曲如鬼魅。整个色调偏暗，唯有毒液的绿光和甲胄的冷光非常耀眼。",
+    "location": "永恒暮色之森-陷阱点"
+  },
+  "bg_cg_lilith_shocked": {
+    "id": "bg_cg_lilith_shocked",
+    "name": "莉莉丝的震惊CG",
+    "description": "[char_lilith] [char_aaron] 画面特写了星野莉莉丝的脸部。这位平时总是玩世不恭、毒舌神秘的魔女，此时瞪大了双眼，嘴唇微张，露出极度不可置信的表情。她的一只手按在巨大的魔女帽檐上，背景是亚伦屹立不倒的身影，以及满地折断的毒箭。光影重点打在莉莉丝紫色的眼瞳中，那里倒映着亚伦这个‘变数’的影子。",
+    "location": "永恒暮色之森-观测点"
+  },
+  "bg_dungeon_entrance": {
+    "id": "bg_dungeon_entrance",
+    "name": "地牢一层入口",
+    "description": "阴冷潮湿的地下遗迹入口，墙壁由巨大的青色石块砌成，布满了青苔和岁月的痕迹。微弱的磷火在远处闪烁，空气中弥漫着陈旧的尘土味。",
+    "url": "./assets/background_bg_dungeon_entrance.jpg",
+    "location": "地下城-上层（第一章：正式进入迷宫，冒险的开端）"
+  },
+  "bg_altar_crystal": {
+    "id": "bg_altar_crystal",
+    "name": "古代祭坛",
+    "description": "远景，一个宽阔的地下圆形大厅，中央矗立着一座刻满符文的石制祭坛。祭坛上方原本悬浮着巨大的蓝色水晶，四周散落着古代文明的残垣断壁。但现在水晶已经破碎，里面的少女也不知所踪。",
+    "url": "./assets/background_bg_altar_crystal.jpg",
+    "location": "地下城-祭坛（第二章：封印之地 / 第八章：决战后的废墟）"
+  },
+  "bg_cg_altar_crystal": {
+    "id": "bg_cg_altar_crystal",
+    "name": "CG：封印在古代祭坛的少女",
+    "description": "一个宽阔的地下圆形大厅，中央矗立着一座刻满符文的石制祭坛。祭坛上方原本悬浮着巨大的蓝色水晶，四周散落着古代文明的残垣断壁。水晶里面封印着角色[char_setsuna]，角色沉睡着蜷曲着身子，在水晶中若隐若现",
+    "url": "./assets/background_bg_cg_altar_crystal.jpg",
+    "location": "CG场景-祭坛（第二章：初遇刹那，全景视角展示场景的神圣感）"
+  },
+  "bg_cg_setsuna_victory": {
+    "id": "bg_cg_setsuna_victory",
+    "name": "CG：刹那的胜利手势",
+    "description": "[char_setsuna] 电影级特写镜头，银发狐耳少女刹那站在被摧毁的石像鬼废墟中。她身穿充满未来感的战斗服，与古老的遗迹形成鲜明对比。她面无表情，却伸出右手比了一个“V”字胜利手势。尘埃粒子在地牢顶部的戏剧性光照下飞舞，突显了她红色的眼睛和装备发出的微光。",
+    "url": "./assets/background_bg_cg_setsuna_victory.jpg",
+    "location": "CG场景-地牢深层（第八章：刹那觉醒“元气”属性，学会表达胜利的喜悦）"
+  },
+  "bg_dungeon_poison": {
+    "id": "bg_dungeon_poison",
+    "name": "剧毒回廊",
+    "description": "古老的地牢走廊，弥漫着厚重致命的紫色雾气，墙壁上的火把发出惨绿色的光，气氛压抑而危险。",
+    "url": "./assets/background_bg_dungeon_poison.jpg",
+    "location": "地下城-中层（第三章：遭遇环境危机，暗示扬羽领地的接近）"
+  },
+  "bg_ageha_camp": {
+    "id": "bg_ageha_camp",
+    "name": "扬羽的杂货铺",
+    "description": "地牢通风管道后的隐蔽空间，堆满了木箱、炼金材料和奇怪的机械装置，中间摆着一张精致的茶桌，充满了不协调的生活气息。",
+    "url": "./assets/background_bg_ageha_camp.jpg",
+    "location": "地下城-扬羽营地（第三章：奸商的据点，也是队伍唯一的补给站）"
+  },
+  "bg_cg_ageha_calculator": {
+    "id": "bg_cg_ageha_calculator",
+    "name": "CG：天价账单",
+    "description": "黑木扬羽手持贴满水钻的计算器，镜片反光，展示出天文数字账单的特写画面，表情狡黠而贪财。",
+    "url": "./assets/background_bg_cg_ageha_calculator.jpg",
+    "location": "CG场景-扬羽营地（第三章：展现扬羽的贪财本性与搞笑的压迫感）"
+  },
+  "bg_cg_alchemy_rescue": {
+    "id": "bg_cg_alchemy_rescue",
+    "name": "CG：炼金救援",
+    "description": "战斗场景，扬羽投掷炼金药剂制造冰环保护正在战斗中的刹那[狐人]（注意表现出两个人的紧张状态），画面充满动态感和魔法粒子效果。",
+    "url": "./assets/background_bg_cg_alchemy_rescue.jpg",
+    "location": "CG场景-地牢深层（第四章：扬羽展现战斗价值，三人配合初见雏形）"
+  },
+  "bg_cg_team_form": {
+    "id": "bg_cg_team_form",
+    "name": "CG：四人小队",
+    "description": "亚伦、莉莉丝、刹那和扬羽四人站在一起的画面，展现出虽然吵闹但互补的团队氛围。",
+    "url": "./assets/background_bg_cg_team_form.jpg",
+    "location": "CG场景-地牢深层（第四章：队伍完全集结，正式开启攻略）"
+  },
+  "bg_dungeon_deep": {
+    "id": "bg_dungeon_deep",
+    "name": "地牢中层深处",
+    "description": "潮湿阴暗的地下通道，墙壁上生长着发光的紫色苔藓，空气中弥漫着压抑的雾气。",
+    "url": "./assets/background_bg_dungeon_deep.jpg",
+    "location": "地下城-中层（第四章：探索过程，连接扬羽营地与深层区域）"
+  },
+  "bg_dungeon_battle": {
+    "id": "bg_dungeon_battle",
+    "name": "地牢战斗",
+    "description": "动态模糊的地牢背景，显示出激烈的战斗氛围，光影交错。",
+    "url": "./assets/background_bg_dungeon_battle.jpg",
+    "location": "地下城-通用（全章节：通用的遇敌战斗背景）"
+  },
+  "bg_camp_fire": {
+    "id": "bg_camp_fire",
+    "name": "地牢篝火",
+    "description": "黑暗洞穴中的一处避风港，中央燃烧着温暖的篝火，光影投射在周围的石壁上。",
+    "url": "./assets/background_bg_camp_fire.jpg",
+    "location": "地下城-营地（章节间隙：用于休整、对话和推进角色好感度）"
+  },
+  "cg_setsuna_shield": {
+    "id": "cg_setsuna_shield",
+    "name": "CG：刹那的格挡",
+    "description": "[char_setsuna] 在黑暗地牢中挡在男主角前面，为他挡下一记毒刃，剧毒的短剑深深没入她的左肩。金属相撞溅起火花。动态动作视角，她脸上表情紧张，电影级灯光突显了危险感。",
+    "url": "./assets/background_cg_setsuna_shield.jpg",
+    "location": "CG场景-地牢深层（第四章：刹那舍身救主，体现其作为护卫的忠诚与本能）"
+  },
+  "cg_setsuna_healing": {
+    "id": "cg_setsuna_healing",
+    "name": "CG：伤口处理",
+    "description": "[char_setsuna] 温馨的近景特写。在地牢篝火旁，亚伦（第一人称）正半跪在刹那身前，神情专注而温柔地为她左肩上的伤口缠绕白色的绷带。刹那乖巧地坐着，衣袖半褪，侧着头，金色的眼睛一眨不眨地盯着亚伦的动作，表情中带着一丝困惑和从未有过的异样触动。柔和的暖光将两人的影子拉长，氛围静谧而暧昧。",
+    "url": "./assets/background_cg_setsuna_healing.jpg",
+    "location": "CG场景-营地（第三章：亚伦亲自为刹那治疗，刹那初次体验到“被爱护”而非“维修”的区别）"
+  },
+  "cg_setsuna_warmth": {
+    "id": "cg_setsuna_warmth",
+    "name": "CG：心的温度",
+    "description": "[char_setsuna] 篝火旁的特写。她正带着惊奇和柔和的顿悟神情，触摸着胸前发着红光的宝石。温暖的火光照亮了她的脸庞，与黑暗的背景形成对比。充满情感和氛围感。",
+    "url": "./assets/background_cg_setsuna_warmth.jpg",
+    "location": "CG场景-营地（第六章：刹那开始理解情感，核心/心脏产生反应）"
+  },
+  "bg_dungeon_depths": {
+    "id": "bg_dungeon_depths",
+    "name": "地牢深层回廊",
+    "description": "幽暗压抑的古代石质回廊，墙壁上生长着发光的苔藓，空气中弥漫着古老和危险的气息。",
+    "url": "./assets/background_bg_dungeon_depths.jpg",
+    "location": "地下城-深层（第六章：接近核心区域，危险度提升）"
+  },
+  "bg_dungeon_terrace": {
+    "id": "bg_dungeon_terrace",
+    "name": "地牢露台",
+    "description": "位于地牢遗迹边缘的开阔露台，可以看到上方由魔法构建的虚假却美丽的浩瀚星空。",
+    "url": "./assets/background_bg_dungeon_terrace.jpg",
+    "location": "地下城-露台（第五章：莉莉丝专属剧情点，虚假星空下的谈心）"
+  },
+  "bg_cg_lilith_crying": {
+    "id": "bg_cg_lilith_crying",
+    "name": "CG：哭泣的莉莉丝",
+    "description": "[char_lilith] 特写镜头。星空下的夜晚。莉莉丝正坐在石栏杆上，抱着膝盖。泪水顺着她的脸颊流下，表情充满了绝望和孤独。电影级布光，充满情感氛围。",
+    "url": "./assets/background_bg_cg_lilith_crying.jpg",
+    "location": "CG场景-露台（第五章：莉莉丝崩溃，展现百年轮回的沉重代价）"
+  },
+  "bg_cg_handshake_promise": {
+    "id": "bg_cg_handshake_promise",
+    "name": "CG：星空下的誓言",
+    "description": "[char_lilith][char_aaron] 中景镜头。星光下。亚伦（身穿骑士铠甲）温暖地握住莉莉丝的手。亚伦带着自信而温柔的微笑。莉莉丝抬头看着他，脸红了，睁大的眼睛表现出震惊和感动。浪漫而充满希望的氛围。",
+    "url": "./assets/background_bg_cg_handshake_promise.jpg",
+    "location": "CG场景-露台（第五章：亚伦给予莉莉丝希望，两人羁绊确立）"
+  },
+  "bg_abyss_altar": {
+    "id": "bg_abyss_altar",
+    "name": "深渊祭坛",
+    "description": "一座古老黑暗的石制祭坛悬浮在虚空中，四周环绕着漂浮的碎片和紫色雾气。气氛压抑而冰冷。",
+    "url": "./assets/background_bg_abyss_altar.jpg",
+    "location": "虚空领域（第七章：最终BOSS战场景，现实与虚空的交界）"
+  },
+  "bg_void_lord_battle": {
+    "id": "bg_void_lord_battle",
+    "name": "虚空领主战",
+    "description": "同样的祭坛场景，但被一个巨大的、变幻莫测的暗影实体所占据，它有着多只发光的眼睛，扭曲着周围的空间。",
+    "url": "./assets/background_bg_void_lord_battle.jpg",
+    "location": "虚空领域（第七章：直面时之核心/虚空领主）"
+  },
+  "cg_ageha_sacrifice": {
+    "id": "cg_ageha_sacrifice",
+    "name": "CG：扬羽的牺牲",
+    "description": "[char_ageha] 扬羽的特写，泪水流过她的脸颊，她正用尽全力投掷出一个发着彩虹光芒的药剂瓶。魔法粒子在瓶身后拖曳出轨迹，电影级灯光突显了她痛苦的表情。",
+    "url": "./assets/background_cg_ageha_sacrifice.jpg",
+    "location": "CG场景-虚空领域（第七章：扬羽孤注一掷，展现其为了伙伴放弃财富的决意）"
+  },
+  "cg_setsuna_berserk": {
+    "id": "cg_setsuna_berserk",
+    "name": "CG：刹那暴走",
+    "description": "[char_setsuna] 刹那悬浮在半空中对着天空尖叫，周身环绕着狂暴的紫黑色虚空能量闪电。她的眼睛发出不详的红光，周围漂浮着碎石，氛围黑暗且混乱。",
+    "url": "./assets/background_cg_setsuna_berserk.jpg",
+    "location": "CG场景-虚空领域（第七章：刹那力量失控，对抗虚空的极限状态）"
+  },
+  "cg_redemption": {
+    "id": "cg_redemption",
+    "name": "CG：心的救赎",
+    "description": "[char_setsuna] 主角在能量风暴中紧紧拥抱住刹那。刹那的表情从愤怒转变为困惑和悲伤。柔和温暖的光芒从他们的接触点散发出来，冲破了黑暗的氛围。",
+    "url": "./assets/background_cg_redemption.jpg",
+    "location": "CG场景-虚空领域（第八章：亚伦唤醒刹那，用爱平息暴走）"
+  },
+  "bg_void_altar_ruins": {
+    "id": "bg_void_altar_ruins",
+    "name": "崩塌的祭坛",
+    "description": "黑暗、崩塌中的石制祭坛悬浮在虚空中，紫色闪电噼啪作响，碎片向上漂浮。",
+    "url": "./assets/background_bg_void_altar_ruins.jpg",
+    "location": "虚空领域（第八章：核心被击破后，世界崩塌的最后时刻）"
+  },
+  "bg_cg_core_collapse": {
+    "id": "bg_cg_core_collapse",
+    "name": "CG：核心崩坏",
+    "description": "[char_lilith][char_setsuna] 特写：巨大的蓝色水晶之心正在碎裂，美丽的蓝色正在迅速褪去，取而代之的是死亡般的灰白。黑暗能量从中泄漏。莉莉丝和刹那惊恐地看着它，戏剧性的低角度仰拍。",
+    "url": "./assets/background_bg_cg_core_collapse.jpg",
+    "location": "CG场景-虚空领域（第八章：诅咒源头被摧毁，也是轮回结束的象征）"
+  },
+  "bg_system_interface": {
+    "id": "bg_system_interface",
+    "name": "系统界面【虚空地牢内二选一】",
+    "description": "虚空地牢内，抽象的红黑配色数字空间，漂浮着全息文本框和警告标志。两个巨大的全息选项框，显示着选项【方案A：外来者同化】 【方案B：兵器还原】",
+    "url": "./assets/background_bg_system_interface.jpg",
+    "location": "系统空间（剧情分支：表现世界底层的运行逻辑，打破第四面墙）"
+  },
+  "bg_cg_lilith_eye": {
+    "id": "bg_cg_lilith_eye",
+    "name": "CG：魔女之眼",
+    "description": "[char_lilith] 近景特写。莉莉丝的一只眼睛散发出幽邃的银色光芒，瞳孔中映射出无数像蜘蛛网一样的发光线条（因果线）。她的表情极度痛苦，嘴角溢出一丝鲜血，背景是由于时空干涉而产生扭曲的剧毒回廊场景。",
+    "location": "地下城-剧毒回廊（关键转折点：莉莉丝强行观测未来）"
+  },
+  "bg_cg_ageha_sacrifice": {
+    "id": "bg_cg_ageha_sacrifice",
+    "name": "CG：扬羽的献祭",
+    "description": "[char_ageha] 扬羽的全景镜头，她将几袋发着各色光芒的水晶抛向空中，脸上流着泪却带着微笑，宝石周围正在形成魔法阵。",
+    "url": "./assets/background_bg_cg_ageha_sacrifice.jpg",
+    "location": "CG场景-虚空领域（第七章：全景展示扬羽散尽家财发动的终极魔法）"
+  },
+  "bg_magic_circle_active": {
+    "id": "bg_magic_circle_active",
+    "name": "增幅法阵",
+    "description": "地面视角，展现一个复杂的发光魔法阵，水晶悬浮其中并消散为光能。",
+    "url": "./assets/background_bg_magic_circle_active.jpg",
+    "location": "虚空领域（第七章：扬羽魔法生效的特效场景）"
+  },
+  "bg_cg_final_slash": {
+    "id": "bg_cg_final_slash",
+    "name": "终焉一击CG",
+    "description": "[char_setsuna] 刹那【狐人】在空中斩断发光的形而上锁链的动态动作镜头。在她身后，有勇者、莉莉丝和扬羽的幽灵般重影在支持着她。光粒子的爆发效果。",
+    "url": "./assets/background_bg_cg_final_slash.jpg",
+    "location": "CG场景-虚空领域（第七章：四人羁绊合一，斩断宿命锁链的决胜瞬间）"
+  },
+  "bg_white_light": {
+    "id": "bg_white_light",
+    "name": "极致白光",
+    "description": "纯白的屏幕，带有微弱的玻璃碎裂轮廓。",
+    "url": "./assets/background_bg_white_light.jpg",
+    "location": "抽象空间（转场：用于表现记忆恢复、时间重置或苏醒的瞬间）"
+  },
+  "bg_forest_dawn_ruins": {
+    "id": "bg_forest_dawn_ruins",
+    "name": "黎明的废墟",
+    "description": "长满青苔的古老废墟，被穿透乌云的灿烂日出照亮。充满希望的氛围。",
+    "url": "./assets/background_bg_forest_dawn_ruins.jpg",
+    "location": "永恒暮色之森（第八章：诅咒解除后，重见天日的森林废墟）"
+  },
+  "bg_forest_dawn": {
+    "id": "bg_forest_dawn",
+    "name": "森林黎明",
+    "description": "黎明时分的暮色森林边缘。浓雾已经消散，露出了郁郁葱葱的绿树和湛蓝的天空。金色的晨光透过树叶洒落，照亮了地牢出口废墟所在的草地。",
+    "url": "./assets/background_bg_forest_dawn.jpg",
+    "location": "永恒暮色之森（第八章：通关后的世界，象征新生与自由）"
+  },
+  "bg_cg_setsuna_smile": {
+    "id": "bg_cg_setsuna_smile",
+    "name": "CG：刹那的笑容",
+    "description": "[char_setsuna] 九条刹那站在升起的太阳前的特写镜头。她的银发在金色的轮廓光下闪闪发光。这位通常面无表情的少女露出了真诚、灿烂的笑容，手指在眼边比了一个“V”字（剪刀手）。她的眼睛充满生机和温暖。高品质的日系动画艺术风格，充满情感和电影级布光。",
+    "url": "./assets/background_bg_cg_setsuna_smile.jpg",
+    "location": "CG场景-森林黎明（第八章：刹那情感觉醒，从兵器变为少女的最美瞬间）"
+  },
+  "bg_cg_hand_holding": {
+    "id": "bg_cg_hand_holding",
+    "name": "CG：十指紧扣",
+    "description": "[char_setsuna][char_hero] 一个特写镜头，两只手在晨空和森林的背景下十指紧扣（牵手）。一只手是主角的，略显粗糙；另一只是刹那的，纤细白皙。阳光在他们紧握的双手之间产生了镜头光晕效果，象征着他们的羁绊和新开始的温暖。",
+    "url": "./assets/background_bg_cg_hand_holding.jpg",
+    "location": "CG场景-森林黎明（第八章：Happy End 标志，两人情感的最终确认）"
+  },
+  "bg_cg_lilith_hypnosis": {
+    "id": "bg_cg_lilith_hypnosis",
+    "name": "CG：魔女的催眠",
+    "description": "[char_lilith] 莉莉丝的半身特写。她的一只手向前伸出，仿佛在抚摸屏幕（主角的脸）。指尖散发着梦幻的粉紫色光粉，光粉正在侵蚀周围黑暗的地牢背景。她的眼神悲伤而温柔，嘴角带着凄美的微笑，仿佛在哄孩子入睡。电影级光影，焦点在她的眼睛和指尖的光芒上。",
+    "url": "./assets/background_bg_cg_lilith_hypnosis.jpg",
+    "location": "CG场景-地下城（莉莉丝线：莉莉丝为了保护亚伦，强制发动催眠魔法）"
+  },
+  "bg_dream_bedroom": {
+    "id": "bg_dream_bedroom",
+    "name": "梦境卧室",
+    "description": "一间充满阳光的舒适卧室。木质地板，飘动的白色窗纱，窗外是明媚的蓝天和绿树。桌上摆着冒着热气的早餐和鲜花。色调明亮温暖，带有轻微的柔光滤镜效果，与阴暗的地牢形成强烈反差。",
+    "url": "./assets/background_bg_dream_bedroom.jpg",
+    "location": "梦境空间（莉莉丝线：虚构的幸福日常，用于安抚亚伦的灵魂）"
+  },
+  "bg_dream_town": {
+    "id": "bg_dream_town",
+    "name": "CG：梦境小镇",
+    "description": "一个典型的幻想风格和平小镇街道。鹅卵石路面，路边是卖水果和鲜花的摊位。远处可以看到风车和蓝天。画面色彩饱和度较高，洋溢着虚假的幸福感。摊位上角色穿着一身休闲的便服，捧着一篮新鲜出炉的面包。",
+    "url": "./assets/background_bg_dream_town.jpg",
+    "location": "梦境空间（莉莉丝线：理想中的和平世界，没有诅咒与轮回）"
+  },
+  "bg_dream_hill": {
+    "id": "bg_dream_hill",
+    "name": "梦境山丘",
+    "description": "绿草如茵的小山丘，视野开阔。一棵巨大的橡树矗立在中央。背景是壮丽的日落，天空被染成橙色和紫色。远处的城镇灯火开始闪烁。唯美但带有一种静态的寂寥感。草地上坐着她，她没有戴那顶夸张的魔女帽，也没有穿那件布满神秘符文的长袍。她穿着一袭简单的白色连衣裙，赤着脚踩在草地上，紫色的长发随风轻轻飘动。",
+    "url": "./assets/background_bg_dream_hill.jpg",
+    "location": "梦境空间（莉莉丝线：梦境的终点，莉莉丝告别亚伦的地方）"
+  },
+  "bg_cg_lilith_dream_kiss": {
+    "id": "bg_cg_lilith_dream_kiss",
+    "name": "CG：最后的吻别",
+    "description": "[char_lilith] 在一片纯白的背景中，莉莉丝身穿白色的连衣裙，闭着眼睛，轻轻吻在（男主角）的额头上。她的眼角挂着晶莹的泪珠，身体边缘开始有些虚化，仿佛正在随风消散。光线神圣而柔和，充满离别的哀伤与爱意。",
+    "url": "./assets/background_bg_cg_lilith_dream_kiss.jpg",
+    "location": "CG场景-梦境空间（莉莉丝线：结局高潮，莉莉丝牺牲自己换取亚伦的苏醒）"
+  },
+  "bg_cg_aaron_petrified": {
+    "id": "bg_cg_aaron_petrified",
+    "name": "CG：石化骑士",
+    "description": "[char_aaron] 画面中是亚伦彻底化为灰白色石像的特写。他的身体保持着站立的姿势，甲胄的缝隙中已经长出了些许青苔。他的脸孔半掩在头盔下，眼角甚至还有一颗被冻结的石泪。背景是浓重且不详的紫色雾气，周围是枯死的树木，整体色调灰冷、绝望。",
+    "location": "永恒暮色之森-入口"
+  },
+  "bg_cg_bad_end_satuna_broken": {
+    "id": "bg_cg_bad_end_satuna_broken",
+    "name": "CG：凋零的白花",
+    "description": "（在第八章刹那感受到“心跳”时，亚伦极其冷酷地“否定她的人格”，导致刹那自我认知崩塌，灵力逆流）令人心碎的特写画面。暴雨中的废墟，九条刹那毫无生气地倒在泥泞的水洼中。她原本蓬松巨大的银色狐尾变得灰暗、枯萎，尾尖开始呈现出半透明的灵子化消散状态。胸口护佑她的红色勾玉（灵石）已经碎裂黯淡，微弱的蓝色灵力像萤火虫一样从伤口溢出，消散在冰冷的雨水中。金色的瞳孔失去了高光，嘴角残留着鲜血，像是一朵在暴风雨中惨遭摧残、彻底凋零的白色山茶花。",
+    "url": "./assets/background_bg_cg_bad_end_broken.jpg",
+    "location": "CG场景-废墟（BadEnd：刹那死亡）"
+  },
+  "bg_cg_bad_end_debt": {
+    "id": "bg_cg_bad_end_debt",
+    "name": "CG：地精矿坑的奴隶",
+    "description": "（在扬羽拿出天价账单时，亚伦选择“赖账/逃跑”，被愤怒的奸商制裁。）带有黑色幽默的仰视视角（亚伦的主观视角）。亚伦被粗糙的绳索五花大绑困在木笼子里。扬羽正站在笼子外俯视着他，手中拿着一张长得拖到地上的账单，脸上挂着恐怖的“核善”笑容，背景是堆积如山的金币和昏暗的地精地下黑市。",
+    "url": "./assets/background_bg_cg_bad_end_debt.jpg",
+    "location": "CG场景-地下黑市（BadEnd：亚伦因赖账被扬羽卖作奴隶的搞笑悲剧）"
+  },
+  "bg_cg_bad_end_loop": {
+    "id": "bg_cg_bad_end_loop",
+    "name": "CG：第4802次重置",
+    "description": "（在第五章露台，莉莉丝哭诉命运无法改变时，亚伦丧失了信心直接放弃）极具压迫感的心理恐怖画面。莉莉丝的面部特写，她带着绝望而疯狂的笑容，流着泪单手捏碎了一只精致的怀表。玻璃碎片飞溅，她身后的世界（森林与天空）正在像故障的电脑屏幕一样，崩解成无数错乱的数字方块和像素碎片，象征着时间的强制重置。",
+    "url": "./assets/background_bg_cg_bad_end_loop.jpg",
+    "location": "CG场景-露台（BadEnd：亚伦放弃希望，莉莉丝绝望中重置时间）"
+  },
+  "bg_cg_ageha_toast": {
+    "id": "bg_cg_ageha_toast",
+    "name": "CG：珍贵的干杯",
+    "description": " 充满活力的庆功画面。扬羽凑近镜头，单眼眨眼（Wink），脸上带着灿烂而爽朗的笑容。她手中举着两杯冒着气泡的金色饮料（昂贵的精灵蜜酒），背景是模糊的队友们。虽然她另一只手还紧紧攥着钱袋，但这一刻，她是真心想要分享喜悦。【概念】 扬羽视财如命，但她如果愿意“免费”请你喝一杯最贵的药水/酒，那就是她表达友情的最高形式。",
+    "url": "./assets/background_bg_cg_ageha_toast.jpg",
+    "location": "CG场景-营地（支线：扬羽的好感度剧情，展现其珍贵的友情一面）"
+  },
+  "bg_cg_setsuna_grooming": {
+    "id": "bg_cg_setsuna_grooming",
+    "name": "CG：尾巴护理",
+    "description": "治愈感满满的午后场景。阳光透过树叶洒下斑驳光影。刹那背对着镜头坐在草地上，抱着膝盖，舒服地眯着眼睛，耳朵惬意地耷拉下来。亚伦正拿着梳子，细心地梳理她那蓬松巨大、闪闪发亮的银色狐尾。空气中漂浮着细小的绒毛和光尘，氛围慵懒而亲密。",
+    "url": "./assets/background_bg_cg_setsuna_grooming.jpg",
+    "location": "CG场景-森林/营地（支线：刹那的好感度剧情，温馨的日常互动）"
+  },
+  "bg_cg_lilith_sleep": {
+    "id": "bg_cg_lilith_sleep",
+    "name": "CG：魔女的打盹",
+    "description": "温馨的双人近景。夜晚的篝火旁，光线温暖而摇曳。总是毒舌傲娇的莉莉丝，此刻卸下了所有的防备，靠在亚伦的肩膀上熟睡。她巨大的魔女帽歪在一边，遮住了半张脸，露出的嘴角带着一丝安心的恬静。亚伦侧头温柔地看着她，不敢乱动，生怕惊醒这位疲惫的观测者。",
+    "url": "./assets/background_bg_cg_lilith_sleep.jpg",
+    "location": "CG场景-营地（支线：莉莉丝的好感度剧情，展现其疲惫与脆弱的一面）"
+  },
+  "bg_cg_crystal_glow": {
+    "id": "bg_cg_crystal_glow",
+    "name": "CG：水晶红光",
+    "description": "[bg_cg_altar_crystal] 画面特写于祭坛中央巨大的魔力水晶。原本幽蓝的水晶内部核心此时正闪烁着危险的绯红色光芒，如同某种机械心脏在跳动。光芒映照出内部沉睡少女的轮廓，并在周围黑暗的环境中投射出诡异的几何阴影。氛围充满科技与魔法交织的神秘感。",
+    "url": "./assets/background_bg_cg_crystal_glow.jpg",
+    "location": "CG场景-祭坛（第二章：刹那苏醒前的异变，剧情紧张感的转折点）"
+  },
+  "bg_cg_crystal_crack": {
+    "id": "bg_cg_crystal_crack",
+    "name": "CG：崩裂的前兆",
+    "description": "[bg_cg_altar_crystal] 祭坛水晶表面布满了发光的红色裂纹，强烈的魔力光流从裂缝中喷涌而出，照亮了整个地下空间。画面视角采用仰视，强调水晶即将炸裂的张力与压迫感。空气中漂浮着被魔力震起的碎石与尘埃。",
+    "url": "./assets/background_bg_cg_crystal_crack.jpg",
+    "location": "CG场景-祭坛（第二章：封印破碎的瞬间，刹那登场的前奏）"
+  },
+  "bg_cg_ageha_threat": {
+    "id": "bg_cg_ageha_threat",
+    "name": "CG：致命威胁",
+    "description": "[bg_ageha_camp][char_ageha] 画面采用仰视特写镜头，背景是昏暗的地牢营地。扬羽表情阴暗而危险，脸上带着令人毛骨悚然的微笑。她的一只手举在脸侧，修长的手指夹着一管散发着剧烈紫光的不稳定药剂，仿佛随时准备松手。周围环绕着数只发光的紫冥蝶，给她的脸庞投下诡异的阴影，展现出一种致命的压迫感。",
+    "url": "./assets/background_bg_cg_ageha_threat.jpg",
+    "location": "CG场景-扬羽营地（第三章：扬羽展示武力与威胁，确立其危险的合作者身份）"
+  },
   "bg_cg_voice_resonance": {
     "id": "bg_cg_voice_resonance",
     "name": "CG：灵魂的声律",
@@ -421,18 +417,6 @@
     "name": "逃离宿命",
     "description": "[char_aaron] 亚伦穿着沉重的银色板甲在浓厚的紫色迷雾中疯狂奔跑，四周的枯木扭曲成巨大的手掌试图抓捕他，背景色调阴暗且充满压迫感。",
     "location": "永恒暮色之森-逃亡路径"
-  },
-  "bg_cg_lilith_eye": {
-    "id": "bg_cg_lilith_eye",
-    "name": "CG：魔女之眼",
-    "description": "[char_lilith] 近景特写。莉莉丝的一只眼睛散发出幽邃的银色光芒，瞳孔中映射出无数像蜘蛛网一样的发光线条（因果线）。她的表情极度痛苦，嘴角溢出一丝鲜血，背景是由于时空干涉而产生扭曲的剧毒回廊场景。",
-    "location": "地下城-剧毒回廊（关键转折点：莉莉丝强行观测未来）"
-  },
-  "bg_cg_aaron_petrified": {
-    "id": "bg_cg_aaron_petrified",
-    "name": "CG：石化骑士",
-    "description": "[char_aaron] 画面中是亚伦彻底化为灰白色石像的特写。他的身体保持着站立的姿势，甲胄的缝隙中已经长出了些许青苔。他的脸孔半掩在头盔下，眼角甚至还有一颗被冻结的石泪。背景是浓重且不详的紫色雾气，周围是枯死的树木，整体色调灰冷、绝望。",
-    "location": "永恒暮色之森-入口"
   },
   "bg_cg_aaron_first_strike": {
     "id": "bg_cg_aaron_first_strike",
@@ -476,16 +460,10 @@
     "description": "[char_aaron] 亚伦站在迷雾森林的入口，左手紧紧握着长剑，红色的披风在灰蒙蒙的雾气中猎猎作响。他的侧脸轮廓坚毅，金色的瞳孔中透出不服输的意志，阳光（或微光）勉强穿透云层，在他的银白色板甲上投射出冷冽的光泽，四周的枯树仿佛狰狞的爪子在向他延伸。",
     "location": "永恒暮色之森-入口"
   },
-  "bg_cg_trap_triggered": {
-    "id": "bg_cg_trap_triggered",
-    "name": "陷阱触发CG",
-    "description": "[char_aaron] 这是一个充满张力的画面，前景是亚伦高大的银色重甲背影，他正保持着防御姿态。中景处，无数支带着幽绿色毒液的箭矢如雨点般射向地面，激起腐蚀性的烟雾。背景是阴森的永恒暮色之森，枯树的阴影扭曲如鬼魅。整个色调偏暗，唯有毒液的绿光和甲胄的冷光非常耀眼。",
-    "location": "永恒暮色之森-陷阱点"
-  },
-  "bg_cg_lilith_shocked": {
-    "id": "bg_cg_lilith_shocked",
-    "name": "莉莉丝的震惊CG",
-    "description": "[char_lilith] [char_aaron] 画面特写了星野莉莉丝的脸部。这位平时总是玩世不恭、毒舌神秘的魔女，此时瞪大了双眼，嘴唇微张，露出极度不可置信的表情。她的一只手按在巨大的魔女帽檐上，背景是亚伦屹立不倒的身影，以及满地折断的毒箭。光影重点打在莉莉丝紫色的眼瞳中，那里倒映着亚伦这个‘变数’的影子。",
-    "location": "永恒暮色之森-观测点"
+  "bg_cg_aaron_defiance": {
+    "id": "bg_cg_aaron_defiance",
+    "name": "CG：骑士的违逆",
+    "description": "亚伦在浓重的迷雾中决然转身，背对着莉莉丝的紫色法阵，手中的骑士长剑在暗处闪烁着坚定的光芒。",
+    "location": "永恒暮色之森-歧路"
   }
 }
