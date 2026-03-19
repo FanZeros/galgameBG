@@ -401,13 +401,13 @@
   "bg_cg_voice_resonance": {
     "id": "bg_cg_voice_resonance",
     "name": "CG：灵魂的声律",
-    "description": "一片深邃的暗红色空间，无数发光的线条像神经元一样交织，代表着亚伦正在觉醒的灵魂刻印。",
+    "description": "[char_aaron] 一片深邃的暗红色空间，无数发光的线条像神经元一样交织，代表着亚伦正在觉醒的灵魂刻印。",
     "location": "地下城-祭坛核心"
   },
   "bg_cg_merchant_contract": {
     "id": "bg_cg_merchant_contract",
     "name": "CG：灵魂契约",
-    "description": "[char_ageha][char_hero] 在昏暗的营地火光下，扬羽展现出一张散发着诡异紫光的羊皮纸契约。她的手指纤细却有力地按在契约边缘，嘴角带着一丝志在必得的狡黠笑容。主角亚伦的一只手正缓缓伸向契约，另一只受石化诅咒影响的手臂在暗影中显得冰冷而苍白。空气中浮动着金币和魔力交织的微粒，象征着这场博弈的开端。",
+    "description": "[char_ageha][char_aaron] 在昏暗的营地火光下，扬羽展现出一张散发着诡异紫光的羊皮纸契约。她的手指纤细却有力地按在契约边缘，嘴角带着一丝志在必得的狡黠笑容。主角亚伦的一只手正缓缓伸向契约，另一只受石化诅咒影响的手臂在暗影中显得冰冷而苍白。空气中浮动着金币和魔力交织的微粒，象征着这场博弈的开端。",
     "location": "扬羽的营地"
   },
   "bg_cg_sacrifice_decision": {
@@ -431,7 +431,7 @@
   "bg_cg_aaron_petrified": {
     "id": "bg_cg_aaron_petrified",
     "name": "CG：石化骑士",
-    "description": "画面中是亚伦彻底化为灰白色石像的特写。他的身体保持着站立的姿势，甲胄的缝隙中已经长出了些许青苔。他的脸孔半掩在头盔下，眼角甚至还有一颗被冻结的石泪。背景是浓重且不详的紫色雾气，周围是枯死的树木，整体色调灰冷、绝望。",
+    "description": "[char_aaron] 画面中是亚伦彻底化为灰白色石像的特写。他的身体保持着站立的姿势，甲胄的缝隙中已经长出了些许青苔。他的脸孔半掩在头盔下，眼角甚至还有一颗被冻结的石泪。背景是浓重且不详的紫色雾气，周围是枯死的树木，整体色调灰冷、绝望。",
     "location": "永恒暮色之森-入口"
   },
   "bg_cg_aaron_first_strike": {
@@ -443,7 +443,7 @@
   "bg_cg_miracle_rebirth": {
     "id": "bg_cg_miracle_rebirth",
     "name": "CG：奇迹重生",
-    "description": "[char_aaron] 亚伦站在刺眼的白光与破碎的石化碎片中间，身体正爆发出金红色的魂力。光芒中隐约可见莉莉丝和刹那的身影，像是在用力拉扯着他。背景是扭曲的时间旋涡。",
+    "description": "[char_aaron][char_lilith][char_setsuna] 亚伦站在刺眼的白光与破碎的石化碎片中间，身体正爆发出金红色的魂力。光芒中隐约可见莉莉丝和刹那的身影，像是在用力拉扯着他。背景是扭曲的时间旋涡。",
     "location": "时空狭缝"
   },
   "bg_cg_trap_triggered_fail": {
@@ -461,7 +461,7 @@
   "bg_cg_misty_revelation": {
     "id": "bg_cg_misty_revelation",
     "name": "CG：迷雾中的启示",
-    "description": "[char_lilith] 在浓重的白色迷雾中，莉莉丝坐在一个布满青苔的巨大枯树桩上。她歪着头，右手玩味地捏着一张带有星辰图案的塔罗牌，眼神中透着一种跨越时空的讥讽与好奇。亚伦手持长剑站在迷雾边缘，身影略显模糊，形成了强烈的对比。",
+    "description": "[char_lilith][char_aaron] 在浓重的白色迷雾中，莉莉丝坐在一个布满青苔的巨大枯树桩上。她歪着头，右手玩味地捏着一张带有星辰图案的塔罗牌，眼神中透着一种跨越时空的讥讽与好奇。亚伦手持长剑站在迷雾边缘，身影略显模糊，形成了强烈的对比。",
     "location": "永恒暮色之森-观测点"
   },
   "bg_desolate_border_road": {
