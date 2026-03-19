@@ -567,5 +567,23 @@
     "name": "剧毒回廊的入口",
     "description": "[bg_dungeon_poison] 的初始视角。巨大的拱形门洞后，浓郁得近乎实体的紫色毒雾正缓缓流动，雾气中偶尔闪烁着诡异的绿色磷火。石门上刻满了警告性质的符文，空气因剧毒而显得扭曲。",
     "location": "地下城-中层"
+  },
+  "bg_misty_path_deepening": {
+    "id": "bg_misty_path_deepening",
+    "name": "森林深径",
+    "description": "[bg_misty_path] 的变体。森林深处的雾气呈现出一种粘稠的质感，光线更加黯淡。两侧的树根如同扭曲的手指，在黑暗中微微颤动。地面覆盖着厚厚的腐叶，每一步都会发出沉闷的响声。",
+    "location": "永恒暮色之森-中段"
+  },
+  "bg_hidden_vine_pass": {
+    "id": "bg_hidden_vine_pass",
+    "name": "被掩埋的古代长廊",
+    "description": "这是一处隐藏在藤蔓后的古代遗迹。两侧是高耸的、布满符文的石墙，石砖之间隐约可见流动的魔力光流。空间在这里显得有些扭曲，远景的透视关系呈现出不自然的拉伸感。",
+    "location": "永恒暮色之森-秘密通道"
+  },
+  "bg_cg_dungeon_descent_new": {
+    "id": "bg_cg_dungeon_descent_new",
+    "name": "CG：踏入深渊",
+    "description": "[char_aaron][char_lilith] [bg_dungeon_entrance] 的特写。画面从低角度拍摄，亚伦的银色战靴正稳稳地踩在布满青苔的地牢入口石阶上。莉莉丝侧身站在他身后半步，法杖散发的微光照亮了两人面前深不见底的黑暗走廊。",
+    "location": "地牢一层入口"
   }
 }
