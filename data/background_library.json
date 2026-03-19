@@ -513,5 +513,23 @@
     "name": "CG：虚空领主的真姿",
     "description": "[char_shadow] 虚空领主不再是模糊的黑影，而是形成了一个顶天立地的黑色巨人轮廓。它的胸口是一个缓慢旋转的银河状漩涡，背后环绕着无数破碎的骑士盾牌和长剑。它那俯瞰一切的姿态带给观者巨大的心理压迫感。光线从它身后透出，形成一种诡异的背光效果。",
     "location": "虚空领域-核心祭坛前"
+  },
+  "bg_cg_aaron_crossing": {
+    "id": "bg_cg_aaron_crossing",
+    "name": "CG：跨越禁忌之门",
+    "description": "[char_aaron][char_lilith] [bg_dungeon_entrance] 的特写镜头。画面聚焦于亚伦覆盖着厚重板甲的右脚，正坚定地跨过地牢大门的阴影分界线。背景中莉莉丝漂浮在半空，斗篷边缘带着星光。地牢内部散发着幽蓝色的磷光，与外界的迷雾形成强烈对比。视角为低角度仰视，强调决意感。",
+    "location": "地牢入口"
+  },
+  "bg_dungeon_corridor_echo": {
+    "id": "bg_dungeon_corridor_echo",
+    "name": "回声长廊",
+    "description": "地牢一层的主干道。两侧是高耸的石柱和破碎的石像。墙壁上挂着早已熄灭的火把架，取而代之的是生长在缝隙里的发光苔藓。深处隐约可见一座散发着不详红光的祭坛。空气中弥漫着淡淡的尘埃和魔力震动的波纹。",
+    "location": "地下城-一层回廊"
+  },
+  "bg_cg_crystal_shatter_moment": {
+    "id": "bg_cg_crystal_shatter_moment",
+    "name": "CG：封印破碎的瞬间",
+    "description": "[char_aaron][char_setsuna] [bg_altar_crystal] 的特写变体。巨大的蓝色水晶在画面中央彻底炸裂，无数晶莹的碎片在半空中折射着绯红的光芒。亚伦遮挡着脸部保护自己，而水晶中心隐约露出了九条刹那蜷缩的身影。画面光感极强，充满爆发力和视觉冲击力。",
+    "location": "地牢一层-祭坛"
   }
 }
