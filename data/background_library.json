@@ -465,5 +465,11 @@
     "name": "CG：骑士的违逆",
     "description": "亚伦在浓重的迷雾中决然转身，背对着莉莉丝的紫色法阵，手中的骑士长剑在暗处闪烁着坚定的光芒。",
     "location": "永恒暮色之森-歧路"
+  },
+  "bg_cg_dungeon_descent": {
+    "id": "bg_cg_dungeon_descent",
+    "name": "地牢降临",
+    "description": "[char_aaron][char_lilith] [bg_dungeon_entrance] 画面以亚伦的背影为主景，他的银色盔甲在昏暗的地牢火光下反射出冰冷的光芒。莉莉丝站在他身后几步远，紫色的披风微微扬起，手中紧握着塔罗牌。地牢深处的黑暗仿佛浓稠的液体，正缓缓吞噬他们的身影。火把的余烬在空气中飞舞，透着一股不祥的红色。",
+    "location": "地下城-入口通道"
   }
 }
