@@ -495,5 +495,23 @@
     "name": "虚空长廊",
     "description": "一种令人眩晕的视角，展现了通向最终祭坛的道路。一条黑色的岩石长廊悬浮在无尽的虚空之中，四周是翻滚的紫色魔力云雾。长廊尽头是散发着血色光芒的深渊祭坛，空间在这里似乎发生了扭曲，所有的线条都向中心汇聚。光影极其强烈且不自然，充满压迫感。",
     "location": "虚空领域-边缘"
+  },
+  "bg_cg_aaron_charge_void": {
+    "id": "bg_cg_aaron_charge_void",
+    "name": "CG：勇者的冲锋",
+    "description": "[char_aaron][char_setsuna] 这是一个极具动态感的特写镜头。亚伦手持长剑在黑色的石质长廊上狂奔，身后的鲜红披风由于速度过快而拉出残影。在他身侧，刹那化作一道银色流光并肩前行。背景是扭曲的紫色虚空，金色的圣洁剑光与黑色的压抑环境形成强烈对比。",
+    "location": "虚空领域-真实之扉"
+  },
+  "bg_void_collision_impact": {
+    "id": "bg_void_collision_impact",
+    "name": "能量碰撞",
+    "description": "[bg_abyss_threshold_revealed] 的变体场景。画面中央是巨大的能量爆炸形成的球体，金、银、紫三色魔力交织碰撞。地板上出现了蛛网般的裂纹，碎裂的石块在失重的状态下向上漂浮。整个空间呈现出极度不稳定的视觉效果。",
+    "location": "虚空领域-战场中心"
+  },
+  "bg_cg_void_lord_fully_manifested": {
+    "id": "bg_cg_void_lord_fully_manifested",
+    "name": "CG：虚空领主的真姿",
+    "description": "[char_shadow] 虚空领主不再是模糊的黑影，而是形成了一个顶天立地的黑色巨人轮廓。它的胸口是一个缓慢旋转的银河状漩涡，背后环绕着无数破碎的骑士盾牌和长剑。它那俯瞰一切的姿态带给观者巨大的心理压迫感。光线从它身后透出，形成一种诡异的背光效果。",
+    "location": "虚空领域-核心祭坛前"
   }
 }
