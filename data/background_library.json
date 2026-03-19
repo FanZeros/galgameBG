@@ -471,5 +471,11 @@
     "name": "地牢降临",
     "description": "[char_aaron][char_lilith] [bg_dungeon_entrance] 画面以亚伦的背影为主景，他的银色盔甲在昏暗的地牢火光下反射出冰冷的光芒。莉莉丝站在他身后几步远，紫色的披风微微扬起，手中紧握着塔罗牌。地牢深处的黑暗仿佛浓稠的液体，正缓缓吞噬他们的身影。火把的余烬在空气中飞舞，透着一股不祥的红色。",
     "location": "地下城-入口通道"
+  },
+  "bg_cg_battle_side_by_side": {
+    "id": "bg_cg_battle_side_by_side",
+    "name": "CG：并肩战斗",
+    "description": "[char_aaron][char_setsuna] [bg_dungeon_battle] 地牢深处的特写镜头。亚伦手持闪烁金光的长剑，正侧身挥出一道半月形的剑气。在同一画面中，九条刹那腾空而起，红色的短刀在空中划出数道流光。她的狐尾在身后如火焰般散开，金色的瞳孔锁定着前方的黑暗。两人的动作交相辉映，展现出超越默契的战斗协作感。",
+    "location": "地下城-中层"
   }
 }
