@@ -531,5 +531,23 @@
     "name": "CG：封印破碎的瞬间",
     "description": "[char_aaron][char_setsuna] [bg_altar_crystal] 的特写变体。巨大的蓝色水晶在画面中央彻底炸裂，无数晶莹的碎片在半空中折射着绯红的光芒。亚伦遮挡着脸部保护自己，而水晶中心隐约露出了九条刹那蜷缩的身影。画面光感极强，充满爆发力和视觉冲击力。",
     "location": "地牢一层-祭坛"
+  },
+  "bg_cg_lilith_revelation": {
+    "id": "bg_cg_lilith_revelation",
+    "name": "CG：莉莉丝的真相揭示",
+    "description": "[char_lilith] 这是一个极近距离的特写镜头。画面聚焦在莉莉丝震惊的脸庞上，她深紫色的瞳孔中倒映着散落在地面的塔罗牌。背景是模糊的、闪烁着异样红光的祭坛残骸，光影破碎，营造出一种命运被强行扭转的违和感。",
+    "location": "古代祭坛"
+  },
+  "bg_cg_setsuna_curiosity": {
+    "id": "bg_cg_setsuna_curiosity",
+    "name": "CG：刹那的近距离观测",
+    "description": "[char_setsuna][char_aaron] 画面采用亚伦的第一人称视角。银发狐耳的少女刹那正微微前倾，手指几乎触碰到了亚伦的胸甲。她金色的瞳孔中流淌着淡蓝色的数据流，背景是地牢昏暗而充满青苔的石墙，充满了神秘而宁静的氛围。",
+    "location": "祭坛边缘"
+  },
+  "bg_altar_resonance": {
+    "id": "bg_altar_resonance",
+    "name": "共鸣的祭坛",
+    "description": "[bg_altar_crystal] 的变体。祭坛四周原本熄灭的符文此时正发出幽暗的紫色光芒，与地牢深处传来的红光交织在一起。空气中漂浮着细小的水晶碎屑，仿佛时间在这里变得粘稠而沉重。",
+    "location": "地牢一层-祭坛核心"
   }
 }
